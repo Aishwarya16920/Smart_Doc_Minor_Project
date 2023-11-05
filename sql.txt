@@ -1,0 +1,3 @@
+create database smartdoc;
+use smartdoc
+create table users(Username varchar(20), Age varchar(3), ContactNumber varchar(15));
